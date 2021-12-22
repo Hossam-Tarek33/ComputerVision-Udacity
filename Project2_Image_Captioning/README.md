@@ -1,4 +1,5 @@
 <img width="1354" alt="image-captioning" src="https://user-images.githubusercontent.com/68400719/147161760-9f5417c3-f309-4912-b9ef-64f65627e846.png">
+
 ## Image Captioning
 
 In this project, you will create a neural network architecture to automatically generate captions from images.
