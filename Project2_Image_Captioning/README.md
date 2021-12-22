@@ -7,9 +7,9 @@ In this project, you will create a neural network architecture to automatically 
 After using the Microsoft Common Objects in COntext (MS COCO) dataset to train your network, you will test your network on novel images!
 
 ## Project Instructions
-The project is structured as a series of Jupyter notebooks that are designed to be completed in sequential order:
+The project is structured as a series of Jupyter notebooks that are designed to be completed in sequential order:<br>
 
-0_Dataset.ipynb
-1_Preliminaries.ipynb
-2_Training.ipynb
-3_Inference.ipynb
+0_Dataset.ipynb<br>
+1_Preliminaries.ipynb<br>
+2_Training.ipynb<br>
+3_Inference.ipynb<br>
